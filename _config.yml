@@ -7,16 +7,25 @@ first_name: Haiyang
 middle_name: ""
 last_name: Hou
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me: email
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  PhD Student at UCAS-AI & BGI-Research Beijing, researching single-cell Foundation Models (scFMs).
+# Social links
+social:
+  github_username: houhaiyang
+  email: houhaiyang1@genomics.cn
+  google_scholar_userid: XXXXXX   # Google Scholar 个人主页 ID
+  orcid_id: 0009-0009-1240-4743   # ORCID ID
+  zhihu_username: 再渊
+  wechat_qr: /assets/img/wechat_qr.jpg  # 微信（放二维码图片）
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: scFMs, single-cell, foundation models, bioinformatics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://houhaiyang.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -122,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Haiyang's Blog  # blog_name will be displayed in your blog page
+blog_description: Thoughts on scFMs, life, and gaming
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -464,7 +473,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
