@@ -64,53 +64,64 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
+      "organization": "China Computer Federation (CCF)",
       "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "position": "Student Member",
+      "startDate": "2024",
+      "endDate": "2027",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "University of Chinese Academy of Sciences (UCAS)",
+      "location": "Beijing, China",
+      "url": "https://www.ucas.ac.cn/",
+      "area": "Artificial Intelligence",
+      "studyType": "Ph.D",
+      "startDate": "2024",
+      "endDate": "2027",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["Merit Student in 2026."]
+    },
+    {
+      "institution": "Zhengzhou University (ZZU)",
+      "location": "Zhengzhou, China",
+      "area": "Bioinformatics",
+      "studyType": "M.S.",
+      "startDate": "2021",
+      "endDate": "2024",
+      "score": "",
+      "courses": [],
+      "highlights": ["Postgraduate innovation project."]
+    },
+    {
+      "institution": "Hefei University of Technology (HFUT)",
+      "location": "Hefei, China",
+      "area": "Computer science and technology",
+      "studyType": "B.S.",
+      "startDate": "2017",
+      "endDate": "2021",
+      "score": "",
+      "courses": [],
+      "highlights": ["President of Yaoying Poetry Society."]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Merit Student",
+      "date": "2026-06-01",
+      "awarder": "University of Chinese Academy of Sciences (UCAS)",
+      "url": "",
+      "summary": "Honored for outstanding comprehensive performance in academic research, ideological morality and daily performance among postgraduate students."
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
+      "title": "Second Prize of Oral Presentation, NCCBB-2026 Student Forum",
+      "date": "2026-05-24",
+      "awarder": "NCCBB-2026 Organizing Committee",
+      "summary": "Awarded for excellent oral presentation performance and innovative research achievements in the national graduate academic competition, held in Dongguan, China."
     }
   ],
   "certificates": [
