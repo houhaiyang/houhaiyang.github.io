@@ -9,8 +9,9 @@ profile:
   image: hou001.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dongpank, Haidian District</p>
-    <p>Beijing, China</p>
+    <p>PhD Student at UCAS-AI & BGI-Research Beijing, researching single-cell Foundation Models (scFMs).</p>
+    <p>houhaiyang1@genomics.cn</p>
+    <p>Dongpank, Haidian District, Beijing, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
