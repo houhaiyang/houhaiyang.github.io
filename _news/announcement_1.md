@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-24 00:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Gave an oral presentation at <b>NCCBB 2026</b> (Graduate Student Forum) in Dongguan, and won the <b>Second Prize</b>! 🏆 <a href="/assets/img/NCCBB-2026-award.png" target="_blank">Certificate</a>
+
