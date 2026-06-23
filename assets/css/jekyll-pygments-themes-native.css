@@ -125,10 +125,7 @@
 } /* Name.Variable */ /* Operator.Word */
 .highlight .w {
   color: #666666;
-} /* Text.Whitespace */
-.highlight .mf {
-  color: #3677a9;
-} /* Literal.Number.Float */ /* Literal.Number.Hex */
+} /* Text.Whitespace */ /* Literal.Number.Float */ /* Literal.Number.Hex */
 .highlight .mi {
   color: #3677a9;
 } /* Literal.Number.Integer */
