@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Gave an oral presentation at <b>NCCBB 2026</b> (Graduate Student Forum) in Dongguan, and won the <b>Second Prize</b>! 🏆 <a href="/assets/img/NCCBB-2026-award.png" target="_blank">Certificate</a>
+**[NCCBB 2026]** Gave an oral presentation at <b>NCCBB 2026</b> (Graduate Student Forum) in Dongguan, and won the <b>Second Prize</b>! 🏆 <a href="/assets/img/NCCBB-2026-award.png" target="_blank">Certificate</a>
 
