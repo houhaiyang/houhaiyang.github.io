@@ -19,7 +19,7 @@ social: true             # 显示底部社交图标
 announcements:
   enabled: true
   scrollable: true
-  limit: 5               # 首页最多显示5条 news
+  limit: 5               # 首页最多显示5[papers.bib](..%2F_bibliography%2Fpapers.bib)条 news
 
 latest_posts:
   enabled: true
