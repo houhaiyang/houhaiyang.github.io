@@ -19,6 +19,7 @@ social:
   zhihu_username: 再渊
   wechat_qr: /assets/img/wechat_qr.jpg  # 微信（放二维码图片）
 
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
