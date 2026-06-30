@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD student jointly affiliated with [UCAS-AI](https://ai.ucas.ac.cn) and [BGI-Research](https://www.genomics.cn).
+I am a PhD student jointly affiliated with [UCAS-AI](https://ai.ucas.ac.cn) and [BGI-Research](https://research.genomics.cn/).
 My research centers on single-cell foundation models (**scFMs**) and genomic foundation models (**GFMs**), covering model architecture design, pre-training paradigms, multimodal integration, as well as applied algorithms for biological downstream tasks.
 Feel free to reach out if you are interested in collaborating!
 
